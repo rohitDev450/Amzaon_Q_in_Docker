@@ -125,6 +125,11 @@ docker exec -it amazon-q /entrypoint.sh chat
 
 This will start the Amazon Q chat interface where you can interact with the AI assistant.
 
+------
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33f7f3a9-5e19-493f-82c0-e4a5cfda226e" />
+
+
 ## Additional Commands
 
 ### Check if the container is running:
